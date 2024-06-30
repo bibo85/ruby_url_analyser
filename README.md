@@ -45,7 +45,7 @@ $ ./url_analyser.rb --file=urls.txt
 ## Пример вывода результата
 ```console
 foo - invalid url
-https://www.site5.com - не удается получить до
+https://www.site5.com - Не удается получить доступ к сайту. Проверьте корректность адреса
 https://www.yandex.ru/foo - 404
 
 A-rating:
